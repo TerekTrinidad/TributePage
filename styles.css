@@ -1,0 +1,27 @@
+body{
+	font-family: 'Arial', sans-serif;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+#main{
+	margin: 30px 5px;
+	padding: 10px;
+}
+
+img{
+	width: 50%;
+}
+
+#tribute-info{
+	margin: 30px 0 5px 0;
+	padding: 10px;
+	background: #cccccc;
+	color: black;
+	text-align: left;
+}
+
+h1{
+	text-align: center;
+}
